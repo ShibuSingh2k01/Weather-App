@@ -1,7 +1,6 @@
 # Weather-Application
 A Weather Web Application that utilizes the [OpenWeatherMap's API](https://openweathermap.org/) to return current weather information for a given location.
 
-*
 Simple web application written with
   1. Javascript
   2. HTML
