@@ -6,7 +6,7 @@ Simple web application written with
   2. HTML
   3. CSS
   
- that returns the current weather of any city on earth. The app utilizes [OpenWeatherMap's API](https://openweathermap.org/).
+ It returns the current weather of any city on earth. The app utilizes [OpenWeatherMap's API](https://openweathermap.org/).
 
  Following weather information is obtained for a specific city/location.
   1. Temperature (in Celsius)
